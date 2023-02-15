@@ -62,7 +62,7 @@ export default function Title({ title, listId }) {
                     deleteList(listId);
                   }}
                 >
-                  Delete list Item
+                  Delete list Items 
                 </li>
                 <li
                   onClick={() => {
